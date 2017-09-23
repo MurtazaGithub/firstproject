@@ -1,0 +1,27 @@
+<html>
+<body>
+<h1>Some beautiful <i>cities</i> in Afghanistan</h1>
+<table border="10px" width="1910">
+<tr height="40px"> <th colspan="3">
+</tr>
+<tr><td>1</td><td>Ali</td><td width="900px" rowspan="2"></td>
+</tr>
+<tr><td>2</td><td>Murtaza</td>
+</tr>
+<ul type="circle">
+<li><b>Kabul</li>
+<li>Herat</li>
+<li>Mazar</li>
+<li>Ghazni</li>
+<li>Jaghori</b></li>
+
+</ul>
+</table>
+</body>
+
+
+
+
+
+
+
